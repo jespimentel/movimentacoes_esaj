@@ -1,0 +1,13 @@
+[project]
+name = "pyautogui-teste"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.0",
+    "pyautogui>=0.9.54",
+    "pyperclip>=1.11.0",
+]
